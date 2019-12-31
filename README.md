@@ -1,2 +1,2 @@
 # Simple_linear_Model_using-Tensorflow
-Tnesorflow_Basics
+Tensorflow_Basics
