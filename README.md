@@ -1,4 +1,4 @@
 # Simple_linear_Model_using-Tensorflow
-Tensorflow_Basics
+Tensrflow Basic Concept
 
 Simple Linear Regression Model Using Tensorflow and Keras.
